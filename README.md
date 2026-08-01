@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This SQL project analyzes retail inventory and sales data to uncover key business insights.  
+This SQL project analyzes E- Commerce inventory and sales data to uncover key business insights.  
 The dataset includes product details such as category, MRP, discounts, stock status, available quantity, and weight.  
 By writing structured SQL queries, the project answers business questions around:
 
