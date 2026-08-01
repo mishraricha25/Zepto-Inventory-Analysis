@@ -61,6 +61,9 @@ You can Download it from here: <a href ="https://github.com/mishraricha25/Zepto-
 
 ---
 
+## Tool Used
+- PostgreSQL
+  
 ## Business Questions & Queries
 
 ###  Sales & Revenue
